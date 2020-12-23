@@ -112,7 +112,8 @@ const questions = [
   ${data.tests}
   
   ## License
-  ${data.license}
+  This application is covered by the ${data.license} license.
+
   
   ## Author 
   ${data.username}

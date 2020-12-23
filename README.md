@@ -1,8 +1,8 @@
 
-  # Project Title : test9
+  # Project Title : ucsd-homework-09
   
   ## Project Description:
-  test8
+  homework assignment 9 that is to write a node js program to create a README.md file for a github project.
   
   ## Table of Contents
   * [Installation](#installation)
@@ -15,19 +15,20 @@
   * [Badges](#badges)
   
   ## Installation
-  test7
+  'npm install inquirer', 'npm install axios', and 'npm install fs'
   
   ## Usage
-  test6
+  node index
   
   ## Contributing
-  test5
+  just me
   
   ## Test
-  test4
+  no tests
   
   ## License
-  Apache
+  This application is covered by the MIT license.
+
   
   ## Author 
   g-gutierrez
